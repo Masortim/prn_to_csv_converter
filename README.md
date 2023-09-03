@@ -1,1 +1,1 @@
-# prn_to_csv_converter
+# *.prn to *.csv converter
